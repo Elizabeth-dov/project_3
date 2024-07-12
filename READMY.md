@@ -13,11 +13,10 @@ This project is a car leasing website that provides comprehensive information ab
 - **JavaScript**: Interactive features and dynamic content.
 
 
-## Features 
-
-- **Car Listings**: Information and images of available new and pre-owned cars.
-- **Leasing Information**: Detailed explanations of the leasing process and benefits.
-- **Client Resources**: Blog, FAQ, and contact information.
+## Functions
+- **Responsive design**: The website adapts to various screen sizes.
+- **Interactive elements**: Using JavaScript to add dynamic features.
+- **Aesthetic appearance**: Careful use of CSS to create an attractive appearance.
 
 
 ## How to View
