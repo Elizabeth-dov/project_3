@@ -4,7 +4,7 @@ Welcome to the GitHub repository for the Car Leasing website project.
 
 ## Overview
 
-This project is a car leasing website that provides comprehensive information about leasing vehicles. It includes details on the leasing process, advantages, and considerations, along with options to browse new and pre-owned cars.
+This project is a car leasing website that provides comprehensive information about leasing vehicles. It includes details on the leasing process, advantages, and considerations, along with options to browse new and pre-owned cars. The website was designed and built using modern web technologies, including HTML, CSS and JavaScript, which allowed for a responsive and aesthetic appearance and dynamic functionality.
 
 ## Technologies Used 
 
