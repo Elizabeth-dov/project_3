@@ -236,9 +236,14 @@ margin-bottom: 50px;
 text-align: center;
 }
 .video__content{
+display: flex;
+justify-content: center;
+    }
+.video__content{
 margin: 0 auto;
 display: block;
 }
+
 .important{
     padding-bottom: 150px;
 }
