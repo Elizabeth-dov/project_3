@@ -465,6 +465,10 @@ border-top: 0;
         padding: 0 0 50px;
         gap: 20px;
     }
+    .video__content{
+        display: flex;
+        justify-content: center;
+    }
     .vieo__content{
         width: 788px;
         height: 400px;
