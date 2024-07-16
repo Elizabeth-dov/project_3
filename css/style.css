@@ -465,6 +465,10 @@ border-top: 0;
         padding: 0 0 50px;
         gap: 20px;
     }
+    .vieo__content{
+        width: 788px;
+        height: 400px;
+    }
 }
 
 @media (max-width: 860px){
